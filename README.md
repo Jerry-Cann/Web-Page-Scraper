@@ -14,5 +14,4 @@ This file is designed for use with any python interpreter.
 * Navigate it to the folder where you saved the file.
 * Enable python and run the program
 * Pass the available values in appropriate format
-* Example: `4`
-*          `News` 
+* Example: `4`, `News` 
